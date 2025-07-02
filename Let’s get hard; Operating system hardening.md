@@ -1,5 +1,5 @@
 ﻿
-# Let’s get hard; Operating system hardening
+Originally published on https://medium.com/ february 27th 2025. [https://blog.improsec.com/tech-blog/the-fundamentals-of-ad-tiering](https://medium.com/@research.tto/lets-get-hard-operating-system-hardening-3708ed85fb8f) Authors: Tobias Torp.
 
 # Why Harden?
 
